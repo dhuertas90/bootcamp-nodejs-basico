@@ -23,12 +23,13 @@ http://localhost:3000
 
 ## Estructura de Carpetas
 
-.
+```
 ├── server.js        # Archivo principal del servidor
 ├── public/          # Carpeta para archivos estáticos
 │   ├── index.html   # Página principal
 │   ├── 404.html     # Página de error 404
 └── package.json     # (Opcional) Dependencias y configuración del proyecto
+```
 
 ## Notas
 - El servidor detecta la extensión del archivo solicitado y establece el tipo de contenido adecuado.
